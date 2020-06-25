@@ -1,0 +1,2 @@
+# beautysalonMoscow
+Layout adaptive
